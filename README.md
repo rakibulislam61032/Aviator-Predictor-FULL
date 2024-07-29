@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Aviator Predictor
+# Aviator Predictor FULL
 
 ![logo-aviator](https://github.com/MuckPro/aviat/assets/138373919/f247efa9-e00d-44ae-bd9f-b600f6d854a2)
 
